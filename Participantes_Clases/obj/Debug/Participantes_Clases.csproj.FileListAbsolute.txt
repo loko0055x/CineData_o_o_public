@@ -1,0 +1,18 @@
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Participantes_Clases\bin\Debug\Participantes_Clases.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Participantes_Clases\bin\Debug\Participantes_Clases.pdb
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Participantes_Clases\obj\Debug\Participantes_Clases.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Participantes_Clases\obj\Debug\Participantes_Clases.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Participantes_Clases\obj\Debug\Participantes_Clases.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Participantes_Clases\obj\Debug\Participantes_Clases.pdb
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Participantes_Clases\bin\Debug\Participantes_Clases.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Participantes_Clases\bin\Debug\Participantes_Clases.pdb
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Participantes_Clases\obj\Debug\Participantes_Clases.csproj.AssemblyReference.cache
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Participantes_Clases\obj\Debug\Participantes_Clases.csproj.CoreCompileInputs.cache
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Participantes_Clases\obj\Debug\Participantes_Clases.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Participantes_Clases\obj\Debug\Participantes_Clases.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Participantes_Clases\bin\Debug\Participantes_Clases.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Participantes_Clases\bin\Debug\Participantes_Clases.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Participantes_Clases\obj\Debug\Participantes_Clases.csproj.AssemblyReference.cache
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Participantes_Clases\obj\Debug\Participantes_Clases.csproj.CoreCompileInputs.cache
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Participantes_Clases\obj\Debug\Participantes_Clases.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Participantes_Clases\obj\Debug\Participantes_Clases.pdb

@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55992208-6259-4773-B07E-470453DFDD34}|CapaGUI\\CapaGUI.csproj|d:\\misproyectos-programacion\\csharp-apps\\nueva carpeta\\capagui\\frm_mdi_administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55992208-6259-4773-B07E-470453DFDD34}|CapaGUI\\CapaGUI.csproj|solutionrelative:capagui\\frm_mdi_administracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55992208-6259-4773-B07E-470453DFDD34}|CapaGUI\\CapaGUI.csproj|D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\capagui\\reporteboleta.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{55992208-6259-4773-B07E-470453DFDD34}|CapaGUI\\CapaGUI.csproj|solutionrelative:capagui\\reporteboleta.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55992208-6259-4773-B07E-470453DFDD34}|CapaGUI\\CapaGUI.csproj|D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\capagui\\rjbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55992208-6259-4773-B07E-470453DFDD34}|CapaGUI\\CapaGUI.csproj|solutionrelative:capagui\\rjbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55992208-6259-4773-B07E-470453DFDD34}|CapaGUI\\CapaGUI.csproj|D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\capagui\\rjciruclarpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55992208-6259-4773-B07E-470453DFDD34}|CapaGUI\\CapaGUI.csproj|solutionrelative:capagui\\rjciruclarpicturebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55992208-6259-4773-B07E-470453DFDD34}|CapaGUI\\CapaGUI.csproj|D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\capagui\\frm_iniciarsecion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55992208-6259-4773-B07E-470453DFDD34}|CapaGUI\\CapaGUI.csproj|solutionrelative:capagui\\frm_iniciarsecion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55992208-6259-4773-B07E-470453DFDD34}|CapaGUI\\CapaGUI.csproj|D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\capagui\\frm_iniciarsecion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55992208-6259-4773-B07E-470453DFDD34}|CapaGUI\\CapaGUI.csproj|solutionrelative:capagui\\frm_iniciarsecion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RJButton.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\CapaGUI\\RJButton.cs",
+              "RelativeDocumentMoniker": "CapaGUI\\RJButton.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\CineDataDefinitivo\\CapaGUI\\RJButton.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:13:19.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RJCiruclarPictureBox.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\CapaGUI\\RJCiruclarPictureBox.cs",
+              "RelativeDocumentMoniker": "CapaGUI\\RJCiruclarPictureBox.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\CineDataDefinitivo\\CapaGUI\\RJCiruclarPictureBox.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:13:18.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReporteBoleta.rdlc",
+              "DocumentMoniker": "D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\CapaGUI\\ReporteBoleta.rdlc",
+              "RelativeDocumentMoniker": "CapaGUI\\ReporteBoleta.rdlc",
+              "ToolTip": "D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\CapaGUI\\ReporteBoleta.rdlc",
+              "RelativeToolTip": "CapaGUI\\ReporteBoleta.rdlc",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-10-16T23:12:49.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_MDI_Administracion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\CapaGUI\\Frm_MDI_Administracion.cs",
+              "RelativeDocumentMoniker": "CapaGUI\\Frm_MDI_Administracion.cs",
+              "ToolTip": "D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\CapaGUI\\Frm_MDI_Administracion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaGUI\\Frm_MDI_Administracion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:12:23.367Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frm_IniciarSecion.cs",
+              "DocumentMoniker": "D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\CapaGUI\\Frm_IniciarSecion.cs",
+              "RelativeDocumentMoniker": "CapaGUI\\Frm_IniciarSecion.cs",
+              "ToolTip": "D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\CapaGUI\\Frm_IniciarSecion.cs",
+              "RelativeToolTip": "CapaGUI\\Frm_IniciarSecion.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAEwKQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:02:00.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm_IniciarSecion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\MisProyectos-Programacion\\CSharp-Apps\\Nueva carpeta\\CapaGUI\\Frm_IniciarSecion.cs",
+              "RelativeDocumentMoniker": "CapaGUI\\Frm_IniciarSecion.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\CineDataDefinitivo\\CapaGUI\\Frm_IniciarSecion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:01:58.747Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

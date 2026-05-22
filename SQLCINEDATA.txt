@@ -1,0 +1,651 @@
+/*	PROYECTO CINEDATA: SE CREA LA BASE DE DATOS CON EL NOMBRE: Cine_Data_O_O	*/
+create database Cine_Data_O_O
+use Cine_Data_O_O
+
+select *from administradores
+
+select *from cliente_premiun
+
+select *from boleta
+/*	CREAMOS SUS RESPECTIVAS TABLAS DE LA DICHA BASE DE DATOS	*/
+--	TABLA CLIENTE PREMIUM
+create table cliente_premiun(
+dni int primary key ,
+nombre varchar(30)not null,
+apellido varchar(40)not null,
+celular int not null,
+sexo char (1)not null,
+correo varchar(100)not null,
+contraseña varchar(50)not null,
+estado int null
+);
+go
+
+SELECT * FROM cliente_premiun
+SELECT dni,nombre,apellido,celular,sexo,correo FROM cliente_premiun
+
+select *from administradores
+select *from sala
+select *from asientos
+
+select *from boleta
+
+create table sala(
+idsala int primary key ,
+nombrepelicula varchar(40)not null,
+imagenfoto image,
+linktrailer varchar(max)not null,
+);
+go
+
+
+--	TABLA ASIENTOS
+create table asientos(
+numasiento int ,
+idsala int  ,
+estado nchar(2),
+constraint fksala foreign key (idsala) references sala (idsala) 
+);
+go
+
+--	TABLA TIPOENTRADA
+create table tipoentrada(
+id int primary key,
+tipoentrada varchar(30),
+precio money,
+);
+go
+
+--	TABLA DULCERIA
+create table dulceria(
+iddulceria int primary key,
+nombre varchar(30),
+precio money,
+);
+go
+
+--	TABLA ADMINISTRADORES
+create table administradores(
+dni int primary key,
+nombre varchar (30) not null,
+apellido varchar (40)not null,
+salario money not null,
+correo varchar (max)not null,
+contraseña  varchar (max)not null,
+dirrecion varchar (100)null,
+telefono bigint null,
+sexo char (1)not null,
+fechanacimiento date null,
+);
+
+--	TABLA BOLETA
+
+
+create table boleta (
+idboleta int identity primary key,
+nombre varchar(30)not null,
+apellido varchar(30)not null,
+correo varchar(100)not null,
+nombrepelicula varchar (30)not null ,--fk
+subtotalentradas money not null,
+subtotaldulceria money not null,
+fecha_compra datetime default getdate(),
+tipo_pago varchar(30)not null,
+total money not null, 
+);
+
+
+go
+
+--	TABLA HISTORIAL_CLIENTE_PREMIUM
+create table historialclientepremiun (
+codhistorial int primary key identity,
+dni bigint not null,
+fecha datetime default getdate(),
+notalogin varchar (max)not null,
+);
+
+
+
+--	TABLA EMPLEADOS
+create table empleados(
+idempleado nchar(5)primary key,
+nombre varchar (30) not null,
+apellido varchar (40)not null,
+salario money not null,
+correo varchar (max) null, 
+dirrecion varchar (100)null, 
+telefono bigint null,
+sexo char (1) null,
+cargo nvarchar (20),
+fechanacimiento date null,
+horasalasemana varchar(10) not null,
+);
+
+--	TABLA CATEGORIA_PELI
+create table categoriapeli(
+codipeli int primary key ,
+nombrecategoria varchar(25),
+censura varchar (20),
+formato varchar(10),
+idioma varchar(25),
+);
+go
+select* from cliente_premiun
+select *from administradores
+
+-----------------------------------------------------------------------------------------------------------------
+
+/*	MUESTRA LA FECHA Y HORA ACTUAL!!	*/
+set dateformat dmy;
+select  getdate ()as fechaactual
+go
+
+
+/*	INSERTAMOS EN LA TABLA "administradores" DONDE DENTRO DE LA BASE DE DATOS SE ALMACENA
+						LOS DATOS DE LOS MISMOS ADMINISTRADORES						*/
+insert  into administradores values 
+(71258185,'Eliot cristopher','Ticcla Taguada',3000,'eliot@gmail.com','123456','',null,'m',null),
+(71284903,'Rafael','Fabian Mendoza',3000,'rafa@gmail.com','1234','',null,'m',null),
+(74530613,'Glen David','Quispe Tipte',3500,'loko2003@gmail.com','14','',null,'m',null),
+(74503753,'Leonardo Miguel','Salazar Huamani',4000,'leomiguel7@gmail.com','n0pu3d353r7','',null,'m',null);
+-- PARA INICIAR SESION COMO ADMINISTRADOR DEL CINEDATA# CON CORREO Y CONTRASEÑA
+select nombre from administradores where correo='leomiguel7@gmail.com' and contraseña='n0pu3d353r7';
+-- select nombre from administradores where correo=? and contraseña=?;
+GO
+
+
+/*	INSERTAMOS EN LA TABLA "boleta" UN REGISTRO Y VERIFICAR EL ORDEN DE LOS DATOS INGRESADOS	*/
+insert  into boleta (nombre,apellido,correo,nombrepelicula,subtotalentradas,subtotaldulceria,tipo_pago,total)values
+('Rafael','Mendoza','hola@gmail.com','marvel',40,120,'yape',160);
+select *from boleta
+GO
+
+
+select * from sala where idsala = 1
+
+/* ESCRIBIMOS LOS VALORES QUE SE USARAN EN LOS METODOS DE PROGRAMA NETBEANS*/
+/*	insert into boleta values (?,?,?,?,?,?,?,?)	*/
+
+
+/*	INSERTAMOS EN LA TABLA "sala" LOS REGISTROS DE SALAS ACTUALES CON EL CONTENIDO DE PELICULAS	*/
+	insert into sala values
+	(1,'dragon ball z','',''),
+	(2,'caminos al terror','',''),
+	(3,'vengadores xxx','',''),
+	(4,'mayores 18','',''),
+	(5,'chuki','',''),
+	(6,'hombre arala','','');
+select *from sala	
+/*	ACTUALIZAMOS EN LA PARTE ADMINISTRADOR LOS NONMBRES, IMAGENES DE LA PELICULA EN LA SALA	*/
+update sala set nombrepelicula='dragon ball z ',imagenfoto='null' where idsala=1;
+-- update sala set nombrepelicula=?,imagenfoto=? where idsala=?;
+GO
+
+select *from asientos 
+
+
+/*	INSERTAMOS EN LA TABLA "asientos" PARA UNA PARTE DEL METODO DEL PROGRAMA LOS ASIENTOS DISPONIBLES	*/
+--	SALA 1
+insert into asientos values 
+(1,1,'si'),
+(2,1,'si'),
+(3,1,'si'),
+(4,1,'si'),
+(5,1,'si'),
+(6,1,'si'),
+(7,1,'si'),
+(8,1,'si'),
+(9,1,'si'),
+(10,1,'si'),
+(11,1,'si'),
+(12,1,'si'),
+(13,1,'si'),
+(14,1,'si'),
+(15,1,'si');
+
+--	SALA 2
+insert into asientos values 
+(1,2,'si'),
+(2,2,'si'),
+(3,2,'si'),
+(4,2,'si'),
+(5,2,'si'),
+(6,2,'si'),
+(7,2,'si'),
+(8,2,'si'),
+(9,2,'si'),
+(10,2,'si'),
+(11,2,'si'),
+(12,2,'si'), 
+(13,2,'si'),
+(14,2,'si'),
+(15,2,'si');
+
+--	SALA 3
+insert into asientos values 
+(1,3,'si'),
+(2,3,'si'),
+(3,3,'si'),
+(4,3,'si'),
+(5,3,'si'),
+(6,3,'si'),
+(7,3,'si'),
+(8,3,'si'),
+(9,3,'si'),
+(10,3,'si'),
+(11,3,'si'),
+(12,3,'si'), 
+(13,3,'si'),
+(14,3,'si'),
+(15,3,'si');
+
+--	SALA 4
+insert into asientos values 
+(1,4,'si'),
+(2,4,'si'),
+(3,4,'si'),
+(4,4,'si'),
+(5,4,'si'),
+(6,4,'si'),
+(7,4,'si'),
+(8,4,'si'),
+(9,4,'si'),
+(10,4,'si'),
+(11,4,'si'),
+(12,4,'si'), 
+(13,4,'si'),
+(14,4,'si'),
+(15,4,'si');
+
+--	SALA 5
+insert into asientos values 
+(1,5,'si'),
+(2,5,'si'),
+(3,5,'si'),
+(4,5,'si'),
+(5,5,'si'),
+(6,5,'si'),
+(7,5,'si'),
+(8,5,'si'),
+(9,5,'si'),
+(10,5,'si'),
+(11,5,'si'),
+(12,5,'si'), 
+(13,5,'si'),
+(14,5,'si'),
+(15,5,'si');
+
+--	SALA 6
+insert into asientos values 
+(1,6,'si'),
+(2,6,'si'),
+(3,6,'si'),
+(4,6,'si'),
+(5,6,'si'),
+(6,6,'si'),
+(7,6,'si'),
+(8,6,'si'),
+(9,6,'si'),
+(10,6,'si'),
+(11,6,'si'),
+(12,6,'si'), 
+(13,6,'si'),
+(14,6,'si'),
+(15,6,'si');
+SELECT *FROM asientos
+SELECT *FROM sala
+
+select *from administradores
+
+select nombrepelicula ,imagenfoto from sala where idsala=''
+
+/*	PARA ACTUALIZAR SI SE ESCOGIO CIERTA CANTIDAD DE ASIENTOS	*/
+update asientos set estado='si' where numasiento=1 and idsala=2;
+-- update asientos set estado='si' where numasiento=? and idsala=?;
+update asientos set estado='no' where numasiento=1;
+-- update asientos set estado='no' where numasiento=?
+GO
+
+select estado from asientos where numasiento='' and idsala=''
+
+
+
+/*	INSERTAMOS EN LA TABLA "tipoentrada" PARA VALIDAR EL PRECIO SEGUN EL TIPO DE CLIENTE*/
+insert into tipoentrada values 
+('1','general',20),
+('2','mayores de 60 años',15),
+('3','niños',10);
+select *from tipoentrada
+select tipoentrada,precio from tipoentrada  where id =1
+--select tipoentrada,precio from tipoentrada  where id =?;
+GO
+
+
+/*	INSERTAMOS EN LA TABLA "cliente_premium" UN REGISTRO DE UNA PERSONA QUE YA ESTA REGISSTRADA EN EL SISTEMA	*/
+insert into cliente_premiun values 
+(404020521,'glen','kt',924751425,'m','lokito@gmail.com','123','');
+
+insert into cliente_premiun values 
+('','','',924751425,'','','','');
+
+--insert into cliente_premiun values (?,?,?,?,?,?,?,?);	
+
+
+/*	PARA EL INICIO DE SESION	*/
+update cliente_premiun set estado=1 where dni ='4020' and contraseña='123';
+--update cliente_premiun set estado=1 where dni =? and contraseña=?;
+
+/*	ASI MISMO SE CREA UNOS DISPARADORES PARA UBICAR EN LA BASE DE DATOS EL INICO DE SESION EN CLIENTES_PREMIUM	*/
+create trigger historial_abrir 
+on cliente_premiun
+after update
+as
+--si actualiza el estado a  1
+if	update(estado) 
+	begin
+	insert into historialclientepremiun (dni,notalogin)
+	select dni,'inicio secion' from  inserted
+	end
+
+
+create trigger historial_cerrar 
+on cliente_premiun
+after update
+as
+--si actualiza el estado a  1
+if	update(estado)
+	begin
+	insert into historialclientepremiun (dni,notalogin)
+	select dni,'cierre secion' from  inserted
+	end
+GO
+
+
+select *from asientos
+
+/*	INSERTAMOS EN LA TABLA "DULCERIA" EL SUS COMBOS	*/
+insert into dulceria values
+('1','combo1','60'),	
+('2','combo2','15'),
+('3','combo3','20'),
+('4','combo4','35'),
+('5','combo5','100'),
+('6','combo6','32');
+select *from dulceria
+  --	  select  nombre ,precio from dulceria where iddulceria=?
+GO
+
+
+/*	INSERTMAOS EN LA TABLA "empleados"	CIERTOS REGISTROS DE LOS TRABAJADORES DEL DICHO LUGAR*/
+insert into empleados values
+('E0001','Alfredo Paredes','Gonzales Villa',1400,'alfreparedes89@gmail.com','Los olivos',912345678,'M','Atencion al cliente','19-Feb-1994','48h/semana'),
+('E0002','Melanie Daniela','Rodriguez Velazques',700,'MelaDani45@gmail,com','Villa Maria del Triunfo',922345678,'F','Dulceria','05-Nov-2000','24h/semana'),
+('E0003','Luciana Flores','Perez Medina',700,'LuciPerez@gmail.com','San Juan de Miraflores',932345678,'F','Supervisor','08-Oct-1998','24h/semana'),
+('E0004','Mariano Garcia','Soto Pereida',1400,'Marianito9@gmail.com','Villa Maria del Triunfo',952345678,'M','Dulceria','12-Mar-1997','48H/semana'),
+('E0005','Luis Pedro','Torres Gomez',1400,'PedroTorres@gmail.com','Surco',962345678,'M','Seguridad','09-Mar-1993','48h/semana'),
+('E0006','Ricardo Luna','Patria Huaman',700,'RicardoLPH@gmail.com','Villa el Salvador',972345678,'M','Dulceria','01-Feb-1998','24h/semana'),
+('E0007','Valeria Fatima','Velazques Gomez',1400,'ValeVelazques@gmail.com','San Juan de Miraflores',982345678,'F','Supervisor','17-Feb-2000','48h/semana'),
+('E0008','Milagros Anita','Quispe Morales',700,'MilaMorales5678@gmail.com','Villa Maria del Triunfo',992345678,'F','Dulceria','18-Nov-1999','24h/semana'),
+('E0009','Jose Luis','Sermeño Valdes',1400,'JoseLuis34@gmail.com','Surco',912245678,'M','Seguridad','16-Oct-1998','48h/semana'),
+('E0010','Diego Quispe','Fernandez Silva',1400,'QuiepeSilva@gmail.com','San Juan de Miraflores',913245678,'M','Proyector','10-Nov-1990','48h/semana'),
+('E0011','Ruth Rosmery','Epinoza Navarro',1500,'RuthyEspinas@gmail.com','Surco',914245678,'F','Mantenimiento','15-Mar-2000','48h/semana'),
+('E0012','Leonel','Iparraguirre',700,'Molina','Dotaforever@gmail.com',915345678,'M','Proyector','01-Nov-2000','24h/semana'),
+('E0013','Marcos Jose','Vilca Salazar',800,'San Luis','VilcaMarcos9@gmail.com',916345678,'M','Mantenimiento','07-Nov-1998','24h/semana'),
+('E0014','Jorge Quiños','Paiva Suarez',1400,'QuiñosPaiva@gmail.com','Villa el Salvador',971345678,'M','Dulceria','14-Nov-2000','48h/semana');
+
+--	SE USARA EN LA PARTE ADMINISTRATIVA DEL PROGRAMA PARA SELECCIONAR, INSERTAR ,ACTUALIZAR O ELIMINAR EMPLEADOS
+ select idempleado,nombre,apellido,salario,correo,cargo,horasalasemana from empleados where idempleado='e0004'
+ --	select idempleado,nombre,apellido,salario,correo,cargo,horasalasemana from empleados where idempleado=?;
+ update empleados set nombre='Mirana' ,apellido='jurnero nuñez',salario=1400,correo='Marianito1@gmail.com',cargo='Dulceria',horasalasemana='48H/semana' where idempleado='e0004';
+ -- update empleados set nombre=? ,apellido=?,salario=?,correo=?,cargo=?,horasalasemana=? where idempleado=?;
+ insert into empleados values 
+ ('E0017','david','rodriguez',1200,'david33@gmail.com','seguridad','24h/semana');
+ --	insert into empleados values (?,?,?,?,?,'','','',?,'',?);
+  delete from empleados where idempleado='e0016';
+-- delete from empleados where idempleado=?;
+GO
+select *from empleados
+
+
+
+
+
+ select idempleado,nombre,apellido,salario,correo,cargo,horasalasemana from empleados where idempleado='e0004'
+
+ update empleados set nombre='Mirana' ,apellido='jurnero nuñez',salario=1400,correo='Marianito1@gmail.com',cargo='Dulceria',horasalasemana='48H/semana' where idempleado='e0004';
+
+ 
+ update empleados set nombre=? ,apellido=?,salario=?,correo=?,cargo=?,horasalasemana=? where idempleado=?;
+
+ select *from empleados
+ insert into empleados values 
+ ('E00','david','rodriguez',1200,'david33@gmail.com','','','','seguridad','','24h/semana');
+
+ insert into empleados values 
+ (?,?,?,?,?,'','','',?,'',?);
+
+
+delete from empleados where idempleado='e0016';
+
+
+delete from empleados where idempleado=?;
+
+insert into empleados values 
+ ('E0015','david','rodriguez',1200,'david33@gmail.com','seguridad','24h/semana');
+
+
+
+ update empleados set nombre='Mirana' ,apellido='jurnero nuñez',salario=1400,correo='Marianito1@gmail.com',cargo='Dulceria',horasalasemana='48H/semana' where idempleado='e0004';
+
+
+
+
+ select *from administradores
+
+insert  into administradores values 
+(32,'rafael','fabian mendoza',3000,'rafa@gmail.com','1234','',null,'m',null);
+
+update administradores set nombre='',apellido='',salario='',correo='',contraseña='',sexo='' where dni=''
+
+delete from administradores where dni=''
+
+select *from administradores
+select  dni from administradores where correo='rafa@gmail.com' and contraseña='1234'
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*	INSERTAMOS EN LA TABLA "categoriapeli" PARA GUARDAR SU CATEGORIA DE LA PELICULA EN LA BASE DE DATOS 	*/
+insert into categoriapeli values 
+(1,'APT','+1','2D','español'),
+(2,'Terror','+18','3D','español'),
+(3,'ciencia ficcion','+18','3D','Subtitulado'),
+(4,'Comedia','+8','2D','Subtitulado'),
+(5,'Accion','+14','2D','español'),
+(6,'Drama','+14','2D','Subtitulado');
+select *from sala	
+/*	SE MUESTRA LA IMAGEN Y NOMBRE DE LA PELICULA EN CIERTA SALA		*/
+select  imagenfoto from sala where idsala=1;
+-- select  imagenfoto from sala where idsala=?;
+select nombrepelicula from sala where idsala =1;
+-- select nombrepelicula from sala where idsala =?;
+GO
+
+
+select *from historialclientepremiun
+select *from cliente_premiun
+
+select nombre,apellido from cliente_premiun where dni='' and contraseña=''
+
+SELECT *FROM administradores
+
+--procedures o PROCEDIMIENTOS ALMACENADOS
+
+/*PROCEDURE PARA AGREGAR ADMIN*/
+GO
+create procedure spAgregarAdmin
+@dni  int ,
+@nombre varchar (30),
+@apellido varchar (40),
+@salario money ,
+@correo varchar (max) ,
+@contraseña varchar (max) ,
+@direccion varchar (100) ,
+@telefono bigint ,
+@sexo char (1) ,
+@fechanacimiento date 
+as
+begin
+insert into administradores(dni,nombre,apellido,salario,correo,contraseña,dirrecion,telefono,sexo,fechanacimiento) 
+values (@dni,@nombre,@apellido,@salario,@correo,@contraseña,@direccion,@telefono,@sexo,@fechanacimiento);
+end
+
+spAgregarAdmin 71236548,'Carlos Thomas','Ibarre Mendoza',3000,'correoprueba@gmail.com',123,'Av Los palmos',987456123,m,'09/05/1985';
+
+
+spAgregarAdmin 123,'computadora','celular',3000,'xd@gmail.com',456
+select * from administradores
+
+
+
+/*eliminar el Storm*/
+drop procedure spAgregarAdmin
+
+/*PROCEDURE PARA  ACTUALIZAR ADMIN*/
+create procedure spActualizarAdmin
+@nombre varchar (30),
+@apellido varchar (40),
+@salario money ,
+@correo varchar (max) ,
+@contraseña varchar (max) ,
+@direccion varchar (100) ,
+@telefono bigint ,
+@sexo char (1) ,
+@fechanacimiento date, 
+@dni  int 
+as
+begin 
+
+update administradores set nombre=@nombre,apellido=@apellido,
+salario=@salario,correo=@correo,contraseña=@contraseña,dirrecion=@direccion,telefono=@telefono
+,sexo=@sexo,fechanacimiento=@fechanacimiento
+where dni=@dni
+end
+
+spActualizarAdmin 'Yanina','Mendoza Leon',3500,'flaca@gmail.com',123,NULL,NULL,f,'1987/08/30',71236548
+
+select * from administradores
+
+/*PROCEDURE PARA  ELIMINAR ADMIN*/
+create procedure spEliminaAdmin
+@dni  int 
+as
+begin
+
+delete  from administradores  where dni=@dni
+end
+
+--llamado al procedimiento para eliminar  admin
+spEliminaAdmin 12345678
+
+select * from administradores
+ 
+ select *from dulceria where iddulceria='1'
+
+ select * from gerente
+
+ select * from cliente_premiun
+
+
+ /*STORM AGREGAR CLIENTE*/
+ create procedure spAgregarCliente
+ @dni int,
+ @nombre varchar (30),
+ @apellido varchar (40),
+ @celular int,
+ @sexo char (1),
+ @correo varchar (100),
+ @contraseña varchar (50),
+ @estado int 
+ as
+ begin
+ Insert into cliente_premiun (dni,nombre,apellido,celular,sexo,correo,contraseña,estado)
+ values (@dni,@nombre,@apellido,@celular,@sexo,@correo,@contraseña,@estado);
+ end
+
+ spAgregarCliente 71235468,'Daniel Isac','Mendoza',987654328,'m','dani@gmail.com',123,NULL;
+
+
+
+ /*STORM para actualizar cliente*/
+ create procedure spActualizarCliente
+ @nombre varchar (30),
+ @apellido varchar (40),
+ @celular int,
+ @sexo char (1),
+ @correo varchar (100),
+ @contraseña varchar (50),
+ @estado int,
+ @dni int
+ as
+ begin
+ update cliente_premiun set nombre=@nombre,apellido=@apellido,celular=@celular,sexo=@sexo,
+ correo=@correo,contraseña=@contraseña,estado=@estado where dni=@dni
+ end
+
+ spActualizarCliente  'Manuel Isac','Mendoza',987654328,'m','Manu@gmail.com',123,NULL,71235468;
+
+ /*STORM para eliminar cliente */
+ create procedure spEliminarCliente
+ @dni int
+ as
+ begin
+ delete  from cliente_premiun  where dni=@dni
+ end
+
+ spEliminarCliente 71235468
+
+ select * from cliente_premiun
+ A
+
+ select *from administradores
+select *from cliente_premiun
+select*from asientos
+select *from boleta
+select *from empleados
+
+
+
+create trigger historial_abrir 
+on cliente_premiun
+after update
+as
+--si actualiza el estado a  1
+if	update(estado) 
+	begin
+	insert into historialclientepremiun (dni,notalogin)
+	select dni,'inicio secion' from  inserted
+	end
+
+
+create trigger historial_cerrar 
+on cliente_premiun
+after update
+as
+--si actualiza el estado a  1
+if	update(estado)
+	begin
+	insert into historialclientepremiun (dni,notalogin)
+	select dni,'cierre secion' from  inserted
+	end
+GO

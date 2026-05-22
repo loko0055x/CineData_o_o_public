@@ -1,0 +1,24 @@
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\Utilidades\obj\Debug\Utilidades_Proyecto.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\Utilidades\obj\Debug\Utilidades_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\Utilidades\obj\Debug\Utilidades.pdb
+D:\CineDataDefinitivo\Utilidades\bin\Debug\Utilidades.dll
+D:\CineDataDefinitivo\Utilidades\bin\Debug\Utilidades.pdb
+D:\CineDataDefinitivo\Utilidades\obj\Debug\Utilidades_Proyecto.csproj.AssemblyReference.cache
+D:\CineDataDefinitivo\Utilidades\obj\Debug\Utilidades_Proyecto.csproj.CoreCompileInputs.cache
+D:\CineDataDefinitivo\Utilidades\obj\Debug\Utilidades.dll
+D:\CineDataDefinitivo\Utilidades\obj\Debug\Utilidades.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\Utilidades\bin\Debug\Utilidades.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\Utilidades\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\Utilidades\obj\Debug\Utilidades_Proyecto.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\CineDataDefinitivo\Utilidades\obj\Debug\Utilidades_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\CineDataDefinitivo\Utilidades\obj\Debug\Utilidades.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\Utilidades\obj\Debug\Utilidades.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\Utilidades\bin\Debug\Utilidades.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\Utilidades\bin\Debug\Utilidades.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\Utilidades\obj\Debug\Utilidades_Proyecto.csproj.AssemblyReference.cache
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\Utilidades\obj\Debug\Utilidades_Proyecto.csproj.CoreCompileInputs.cache
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\Utilidades\obj\Debug\Utilidades.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\Utilidades\obj\Debug\Utilidades.pdb

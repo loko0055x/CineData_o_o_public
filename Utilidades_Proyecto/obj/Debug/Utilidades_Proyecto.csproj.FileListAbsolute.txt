@@ -1,0 +1,18 @@
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Utilidades_Proyecto\bin\Debug\Utilidades_Proyecto.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Utilidades_Proyecto\bin\Debug\Utilidades_Proyecto.pdb
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Utilidades_Proyecto\obj\Debug\Utilidades_Proyecto.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Utilidades_Proyecto\obj\Debug\Utilidades_Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Utilidades_Proyecto\obj\Debug\Utilidades_Proyecto.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Utilidades_Proyecto\obj\Debug\Utilidades_Proyecto.pdb
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Utilidades_Proyecto\bin\Debug\Utilidades_Proyecto.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Utilidades_Proyecto\bin\Debug\Utilidades_Proyecto.pdb
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Utilidades_Proyecto\obj\Debug\Utilidades_Proyecto.csproj.AssemblyReference.cache
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Utilidades_Proyecto\obj\Debug\Utilidades_Proyecto.csproj.CoreCompileInputs.cache
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Utilidades_Proyecto\obj\Debug\Utilidades_Proyecto.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Utilidades_Proyecto\obj\Debug\Utilidades_Proyecto.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Utilidades_Proyecto\bin\Debug\Utilidades_Proyecto.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Utilidades_Proyecto\bin\Debug\Utilidades_Proyecto.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Utilidades_Proyecto\obj\Debug\Utilidades_Proyecto.csproj.AssemblyReference.cache
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Utilidades_Proyecto\obj\Debug\Utilidades_Proyecto.csproj.CoreCompileInputs.cache
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Utilidades_Proyecto\obj\Debug\Utilidades_Proyecto.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Utilidades_Proyecto\obj\Debug\Utilidades_Proyecto.pdb

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BFE78F98-5438-466C-AE98-4D3FBDDF15EE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Controlador_Conectar_BD</RootNamespace>
+    <AssemblyName>Controlador_Conectar_BD</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdministradorConectar_BD.cs" />
+    <Compile Include="AsientoConectar_BD.cs" />
+    <Compile Include="BoletaConectar_BD.cs" />
+    <Compile Include="ClienteConectar_BD.cs" />
+    <Compile Include="DulceriaConectar_BD.cs" />
+    <Compile Include="EmpleadoConectar_BD.cs" />
+    <Compile Include="EntradaConectar_BD.cs" />
+    <Compile Include="SalaConectar_BD.cs" />
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Conexiones\Conexiones.csproj">
+      <Project>{1D537128-891E-4F41-A6D2-B7FF1029CC78}</Project>
+      <Name>Conexiones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Participantes_Clases\Participantes_Clases.csproj">
+      <Project>{EC663CE2-F026-4CD9-9F78-9C48C72333AF}</Project>
+      <Name>Participantes_Clases</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilidades_Proyecto\Utilidades_Proyecto.csproj">
+      <Project>{F17BE9BD-C598-4152-A364-CD4E0E971536}</Project>
+      <Name>Utilidades_Proyecto</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

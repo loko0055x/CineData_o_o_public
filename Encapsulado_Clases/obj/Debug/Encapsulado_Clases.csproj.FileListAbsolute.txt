@@ -1,0 +1,30 @@
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\Encapsulado_Clases\bin\Debug\Encapsulado_Clases.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\Encapsulado_Clases\bin\Debug\Encapsulado_Clases.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\Encapsulado_Clases\bin\Debug\Encapsulado_Clases.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\Encapsulado_Clases\bin\Debug\Encapsulado_Clases.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.csproj.AssemblyReference.cache
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.csproj.CoreCompileInputs.cache
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.pdb
+D:\CineDataDefinitivo\Encapsulado_Clases\bin\Debug\Encapsulado_Clases.dll
+D:\CineDataDefinitivo\Encapsulado_Clases\bin\Debug\Encapsulado_Clases.pdb
+D:\CineDataDefinitivo\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.csproj.AssemblyReference.cache
+D:\CineDataDefinitivo\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.csproj.CoreCompileInputs.cache
+D:\CineDataDefinitivo\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.dll
+D:\CineDataDefinitivo\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\Encapsulado_Clases\bin\Debug\Encapsulado_Clases.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\Encapsulado_Clases\bin\Debug\Encapsulado_Clases.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\CineDataDefinitivo\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\CineDataDefinitivo\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\Encapsulado_Clases\bin\Debug\Encapsulado_Clases.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\Encapsulado_Clases\bin\Debug\Encapsulado_Clases.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.csproj.AssemblyReference.cache
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.csproj.CoreCompileInputs.cache
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\Encapsulado_Clases\obj\Debug\Encapsulado_Clases.pdb

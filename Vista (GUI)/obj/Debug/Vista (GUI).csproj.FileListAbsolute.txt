@@ -1,0 +1,117 @@
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Vista (GUI).exe.config
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Vista (GUI).exe
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Vista (GUI).pdb
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista (GUI).csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista (GUI).csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.JrmEscogerpelicula.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista (GUI).csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista (GUI).csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista (GUI).exe
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista (GUI).pdb
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Controlador_Conectar_BD.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Conexiones.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Utilidades_Proyecto.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Controlador_Conectar_BD.pdb
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Conexiones.pdb
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Utilidades_Proyecto.pdb
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista (GUI).csproj.CopyComplete
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.JrmEntradas.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Participantes_Clases.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Participantes_Clases.pdb
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.JrmDulceria.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Jrm_IniciarSecion.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.JrmRegistrar.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.JrmButacas.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.JrmMetodoPago.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Pago_Paypal.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Pago_Yape.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Pago_BBVA.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Jrm_MDI_Administracion.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Jrm_Administradores.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Jrm_Empleados.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Jmr_EdicionPeliculas.resources
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.JrmReporte_Boleta.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista (GUI).csproj.AssemblyReference.cache
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista (GUI).exe.config
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Jmr_EdicionPeliculas.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.JrmDulceria.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.JrmMetodoPago.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.JrmRegistrar.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.JrmButacas.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.JrmEntradas.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.JrmEscogerpelicula.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.JrmReporte_Boleta.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Jrm_Administradores.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Jrm_Empleados.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Jrm_IniciarSecion.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Jrm_MDI_Administracion.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Pago_BBVA.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Pago_Paypal.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Pago_Yape.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista (GUI).csproj.GenerateResource.cache
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista (GUI).exe
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista (GUI).pdb
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Vista (GUI).exe.config
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Vista (GUI).exe
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Vista (GUI).pdb
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Controlador_Conectar_BD.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Participantes_Clases.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Utilidades_Proyecto.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Conexiones.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Controlador_Conectar_BD.pdb
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Participantes_Clases.pdb
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Utilidades_Proyecto.pdb
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\bin\Debug\Conexiones.pdb
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista__GUI_.Properties.Resources.resources
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista (GUI).csproj.CoreCompileInputs.cache
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Vista (GUI)\obj\Debug\Vista (G.0F838843.Up2Date
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\Vista (GUI).exe.config
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\Vista (GUI).exe
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\Vista (GUI).pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\Controlador_Conectar_BD.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\Participantes_Clases.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\Utilidades_Proyecto.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\Conexiones.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\Controlador_Conectar_BD.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\Participantes_Clases.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\Utilidades_Proyecto.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\bin\Debug\Conexiones.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista (GUI).csproj.AssemblyReference.cache
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista (GUI).exe.config
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.Jmr_EdicionPeliculas.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.JrmDulceria.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.JrmMetodoPago.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.JrmRegistrar.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.JrmButacas.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.JrmEntradas.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.JrmEscogerpelicula.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.JrmReporte_Boleta.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.Jrm_Administradores.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.Jrm_Empleados.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.Jrm_IniciarSecion.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.Jrm_MDI_Administracion.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.Pago_BBVA.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.Pago_Paypal.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.Pago_Yape.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista__GUI_.Properties.Resources.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista (GUI).csproj.GenerateResource.cache
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista (GUI).csproj.CoreCompileInputs.cache
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista (G.0F838843.Up2Date
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista (GUI).exe
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Vista (GUI)\obj\Debug\Vista (GUI).pdb

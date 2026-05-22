@@ -1,0 +1,104 @@
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaNegocio\bin\Debug\Encapsulado_Clases.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaNegocio\bin\Debug\Utilidades.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaNegocio\bin\Debug\Encapsulado_Clases.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaNegocio\bin\Debug\Utilidades.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaNegocio\bin\Debug\Encapsulado_Clases.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaNegocio\bin\Debug\Utilidades.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaNegocio\bin\Debug\Encapsulado_Clases.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaNegocio\bin\Debug\Utilidades.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\SISE\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\SISE\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\SISE\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\SISE\CineDataDefinitivo\CapaNegocio\bin\Debug\Encapsulado_Clases.dll
+D:\SISE\CineDataDefinitivo\CapaNegocio\bin\Debug\Utilidades.dll
+D:\SISE\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\SISE\CineDataDefinitivo\CapaNegocio\bin\Debug\Encapsulado_Clases.pdb
+D:\SISE\CineDataDefinitivo\CapaNegocio\bin\Debug\Utilidades.pdb
+D:\SISE\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\SISE\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\SISE\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\SISE\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\SISE\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\Encapsulado_Clases.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\Utilidades.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\Encapsulado_Clases.pdb
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\Utilidades.pdb
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaNegocio\bin\Debug\Encapsulado_Clases.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaNegocio\bin\Debug\Utilidades.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaNegocio\bin\Debug\Encapsulado_Clases.pdb
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaNegocio\bin\Debug\Utilidades.pdb
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\CineDataDefinitivo\CapaNegocio\bin\Debug\Encapsulado_Clases.dll
+D:\CineDataDefinitivo\CapaNegocio\bin\Debug\Utilidades.dll
+D:\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\CineDataDefinitivo\CapaNegocio\bin\Debug\Encapsulado_Clases.pdb
+D:\CineDataDefinitivo\CapaNegocio\bin\Debug\Utilidades.pdb
+D:\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\Encapsulado_Clases.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\Utilidades.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\Encapsulado_Clases.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaNegocio\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaNegocio\bin\Debug\Encapsulado_Clases.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaNegocio\bin\Debug\Utilidades.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaNegocio\bin\Debug\Encapsulado_Clases.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaNegocio\bin\Debug\Utilidades.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaNegocio\obj\Debug\CapaNegocio.pdb

@@ -1,0 +1,72 @@
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaDatos\bin\Debug\Utilidades.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaDatos\bin\Debug\Utilidades.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaDatos\bin\Debug\CapaDatos.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaDatos\bin\Debug\Utilidades.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaDatos\bin\Debug\Utilidades.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaDatos\obj\Debug\CapaDatos.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\SISE\CineDataDefinitivo\CapaDatos\bin\Debug\CapaDatos.dll
+D:\SISE\CineDataDefinitivo\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\SISE\CineDataDefinitivo\CapaDatos\bin\Debug\Utilidades.dll
+D:\SISE\CineDataDefinitivo\CapaDatos\bin\Debug\Utilidades.pdb
+D:\SISE\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\SISE\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\SISE\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\SISE\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.dll
+D:\SISE\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaDatos\bin\Debug\Utilidades.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaDatos\bin\Debug\Utilidades.pdb
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaDatos\bin\Debug\CapaDatos.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaDatos\bin\Debug\Utilidades.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaDatos\bin\Debug\Utilidades.pdb
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\CineDataDefinitivo\CapaDatos\bin\Debug\CapaDatos.dll
+D:\CineDataDefinitivo\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\CineDataDefinitivo\CapaDatos\bin\Debug\Utilidades.dll
+D:\CineDataDefinitivo\CapaDatos\bin\Debug\Utilidades.pdb
+D:\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.dll
+D:\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaDatos\bin\Debug\Utilidades.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaDatos\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaDatos\bin\Debug\CapaDatos.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaDatos\bin\Debug\Utilidades.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaDatos\bin\Debug\Utilidades.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaDatos\obj\Debug\CapaDatos.pdb

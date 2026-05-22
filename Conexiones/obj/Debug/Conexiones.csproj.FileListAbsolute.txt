@@ -1,0 +1,27 @@
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\bin\Debug\Conexiones.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\bin\Debug\Conexiones.pdb
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\bin\Debug\Utilidades_Proyecto.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\bin\Debug\Utilidades_Proyecto.pdb
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\obj\Debug\Conexiones.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\obj\Debug\Conexiones.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\obj\Debug\Conexiones.csproj.CopyComplete
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\obj\Debug\Conexiones.dll
+C:\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\obj\Debug\Conexiones.pdb
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\bin\Debug\Conexiones.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\bin\Debug\Conexiones.pdb
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\bin\Debug\Utilidades_Proyecto.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\bin\Debug\Utilidades_Proyecto.pdb
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\obj\Debug\Conexiones.csproj.AssemblyReference.cache
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\obj\Debug\Conexiones.csproj.CoreCompileInputs.cache
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\obj\Debug\Conexiones.csproj.Up2Date
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\obj\Debug\Conexiones.dll
+F:\Archivos Glen David Formatear\CshardProyectos\Users\Windows 10\source\repos\Proyecto Final Cine Data O_O\Conexiones\obj\Debug\Conexiones.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Conexiones\bin\Debug\Conexiones.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Conexiones\bin\Debug\Conexiones.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Conexiones\bin\Debug\Utilidades_Proyecto.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Conexiones\bin\Debug\Utilidades_Proyecto.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Conexiones\obj\Debug\Conexiones.csproj.AssemblyReference.cache
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Conexiones\obj\Debug\Conexiones.csproj.CoreCompileInputs.cache
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Conexiones\obj\Debug\Conexiones.csproj.Up2Date
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Conexiones\obj\Debug\Conexiones.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\Conexiones\obj\Debug\Conexiones.pdb

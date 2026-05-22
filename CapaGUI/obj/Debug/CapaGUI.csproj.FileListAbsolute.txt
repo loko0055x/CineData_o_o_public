@@ -1,0 +1,833 @@
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\bin\Debug\CapaGUI.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\bin\Debug\CapaGUI.exe
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\bin\Debug\CapaGUI.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\bin\Debug\CapaNegocio.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\bin\Debug\Encapsulado_Clases.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\bin\Debug\CapaDatos.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\bin\Debug\Utilidades.dll
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\bin\Debug\CapaNegocio.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\bin\Debug\Encapsulado_Clases.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\bin\Debug\CapaDatos.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\bin\Debug\Utilidades.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.csproj.CopyComplete
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.exe
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmAdministradores.resources
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.Frm_IniciarSecion.resources
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.Frm_MDI_Administracion.resources
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.Frm_Empleados.resources
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmButacas.resources
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmDulceria.resources
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmEdicionPelicula.resources
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmEntradas.resources
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmEscogerPelicula.resources
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.Pago_Paypal.resources
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.Pago_Yape.resources
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmRegistro.resources
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmMetodoPago.resources
+C:\Users\USER\Documents\Visual Studio 2017\Backup Files\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.Pago_BBVA.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\CapaGUI.exe.config
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\CapaGUI.exe
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\CapaGUI.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\CapaNegocio.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\Encapsulado_Clases.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\Utilidades.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\CapaDatos.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\CapaNegocio.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\Encapsulado_Clases.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\Utilidades.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\CapaDatos.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.csproj.AssemblyReference.cache
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.csproj.SuggestedBindingRedirects.cache
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmAdministradores.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmButacas.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmDulceria.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmEdicionPelicula.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmEntradas.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmEscogerPelicula.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmMetodoPago.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmRegistro.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.Frm_Empleados.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.Frm_IniciarSecion.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.Frm_MDI_Administracion.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.Pago_BBVA.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.Pago_Paypal.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.Pago_Yape.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.csproj.CopyComplete
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.exe
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.pdb
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\EnvDTE.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\stdole.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmReporte.resources
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\Interop.WMPLib.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\bin\Debug\AxInterop.WMPLib.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\Interop.WMPLib.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\AxInterop.WMPLib.dll
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.csproj.ResolveComReference.cache
+D:\carpetas de soluciones en rar\ProyectoFinal 2023\CapaGUI\obj\Debug\CapaGUI.FrmTrailer.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.exe.config
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.exe
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.pdb
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\CapaNegocio.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\Encapsulado_Clases.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\Utilidades.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\CapaDatos.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\EnvDTE.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\stdole.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\CapaNegocio.pdb
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\Encapsulado_Clases.pdb
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\Utilidades.pdb
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\CapaDatos.pdb
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\Interop.WMPLib.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\bin\Debug\AxInterop.WMPLib.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.AssemblyReference.cache
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.SuggestedBindingRedirects.cache
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\Interop.WMPLib.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\AxInterop.WMPLib.dll
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.ResolveComReference.cache
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmAdministradores.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmButacas.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmDulceria.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEdicionPelicula.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEntradas.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEscogerPelicula.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmMetodoPago.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmRegistro.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmReporte.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmTrailer.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_Empleados.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_IniciarSecion.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_MDI_Administracion.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_BBVA.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_Paypal.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_Yape.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.CopyComplete
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.exe
+D:\SISE\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.pdb
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.exe.config
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.exe
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.pdb
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\CapaNegocio.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Encapsulado_Clases.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Utilidades.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\CapaDatos.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\EnvDTE.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\stdole.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\CapaNegocio.pdb
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Encapsulado_Clases.pdb
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Utilidades.pdb
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\CapaDatos.pdb
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.ResolveComReference.cache
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmAdministradores.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmButacas.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmDulceria.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEdicionPelicula.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEntradas.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEscogerPelicula.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmMetodoPago.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmRegistro.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmReporte.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmTrailer.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_Empleados.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_IniciarSecion.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_MDI_Administracion.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_BBVA.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_Paypal.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_Yape.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.CopyComplete
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.exe
+C:\Users\USER\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.pdb
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.exe.config
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.exe
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.pdb
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\CapaNegocio.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\Encapsulado_Clases.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\Utilidades.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\CapaDatos.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\EnvDTE.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\stdole.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\CapaNegocio.pdb
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\Encapsulado_Clases.pdb
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\Utilidades.pdb
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\CapaDatos.pdb
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\Interop.WMPLib.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\bin\Debug\AxInterop.WMPLib.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.AssemblyReference.cache
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.SuggestedBindingRedirects.cache
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\Interop.WMPLib.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\AxInterop.WMPLib.dll
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.ResolveComReference.cache
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmAdministradores.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmButacas.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmDulceria.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEdicionPelicula.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEntradas.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEscogerPelicula.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmMetodoPago.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmRegistro.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmReporte.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmTrailer.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_Empleados.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_IniciarSecion.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_MDI_Administracion.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_BBVA.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_Paypal.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_Yape.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.CopyComplete
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.exe
+D:\proyecto de rafa dotita\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.pdb
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.exe.config
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.exe
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.pdb
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\CapaNegocio.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\Encapsulado_Clases.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\Utilidades.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\CapaDatos.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\EnvDTE.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\stdole.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\CapaNegocio.pdb
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\Encapsulado_Clases.pdb
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\Utilidades.pdb
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\CapaDatos.pdb
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\Interop.WMPLib.dll
+D:\CineDataDefinitivo\CapaGUI\bin\Debug\AxInterop.WMPLib.dll
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.AssemblyReference.cache
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.SuggestedBindingRedirects.cache
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\Interop.WMPLib.dll
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\AxInterop.WMPLib.dll
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.ResolveComReference.cache
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmAdministradores.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmButacas.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmDulceria.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEdicionPelicula.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEntradas.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEscogerPelicula.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmMetodoPago.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmRegistro.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmReporte.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmTrailer.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_Empleados.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_IniciarSecion.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_MDI_Administracion.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_BBVA.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_Paypal.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_Yape.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.CopyComplete
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.exe
+D:\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.exe.config
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.exe
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\CapaNegocio.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Encapsulado_Clases.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Utilidades.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\stdole.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\CapaNegocio.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Encapsulado_Clases.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Utilidades.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.ResolveComReference.cache
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmAdministradores.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmButacas.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmDulceria.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEdicionPelicula.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEntradas.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEscogerPelicula.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmMetodoPago.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmRegistro.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmReporte.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmTrailer.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_Empleados.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_IniciarSecion.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_MDI_Administracion.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_BBVA.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_Paypal.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_Yape.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.Up2Date
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.exe
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.pdb
+C:\Users\Usuario\Downloads\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.exe.config
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.exe.config
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.exe
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\CapaGUI.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\CapaNegocio.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\Encapsulado_Clases.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\Utilidades.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\CapaDatos.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\EnvDTE.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\stdole.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\CapaNegocio.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\Encapsulado_Clases.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\Utilidades.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\CapaDatos.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\Interop.WMPLib.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\bin\Debug\AxInterop.WMPLib.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.AssemblyReference.cache
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.exe.config
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\Interop.WMPLib.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\AxInterop.WMPLib.dll
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.ResolveComReference.cache
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmAdministradores.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmButacas.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmDulceria.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEdicionPelicula.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEntradas.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmEscogerPelicula.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmMetodoPago.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmRegistro.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmReporte.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.FrmTrailer.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_Empleados.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_IniciarSecion.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Frm_MDI_Administracion.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_BBVA.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_Paypal.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Pago_Yape.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.csproj.Up2Date
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.exe
+D:\MisProyectos-Programacion\CSharp-Apps\CineDataDefinitivo\CapaGUI\obj\Debug\CapaGUI.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\CapaGUI.exe.config
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\CapaGUI.exe
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\CapaGUI.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\CapaNegocio.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\Encapsulado_Clases.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\Utilidades.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\CapaDatos.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\EnvDTE.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\stdole.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\CapaNegocio.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\Encapsulado_Clases.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\Utilidades.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\CapaDatos.pdb
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\Interop.WMPLib.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\bin\Debug\AxInterop.WMPLib.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.csproj.AssemblyReference.cache
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.exe.config
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\Interop.WMPLib.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\AxInterop.WMPLib.dll
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.csproj.ResolveComReference.cache
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.FrmAdministradores.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.FrmButacas.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.FrmDulceria.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.FrmEdicionPelicula.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.FrmEntradas.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.FrmEscogerPelicula.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.FrmMetodoPago.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.FrmRegistro.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.FrmReporte.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.FrmTrailer.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.Frm_Empleados.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.Frm_IniciarSecion.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.Frm_MDI_Administracion.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.Pago_BBVA.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.Pago_Paypal.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.Pago_Yape.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.csproj.Up2Date
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.exe
+D:\MisProyectos-Programacion\CSharp-Apps\Nueva carpeta\CapaGUI\obj\Debug\CapaGUI.pdb
